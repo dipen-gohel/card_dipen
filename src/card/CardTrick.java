@@ -4,7 +4,7 @@
  */
 
 /**
- * CardTrick class
+ * CardTrick classs
  * Modifier: Dipen Gohel
  * Date: 19 9 2024
  */
